@@ -1,4 +1,6 @@
 # 입국심사
+
+
 def solution(n, times):
     
     low=1
